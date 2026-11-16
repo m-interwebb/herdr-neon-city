@@ -1,0 +1,14 @@
+herdr-neon-city
+Copyright 2026 m-interwebb
+
+neon-city/mods/islands-spaces, islands-workspace-chrome, islands-workspace-status,
+neon-agents, neon-pane and neon-tabs are modified copies of the spaces,
+workspace-chrome, workspace-status, agents, pane and tabs mods shipped with Herdr
+(https://herdr.dev), which Herdr distributes under the Apache License, Version 2.0.
+They were restyled for the Neon City look. The icons (*.svg) in those mods are
+Herdr's.
+neon-city/layouts/neon-islands.json and cyberpunk.json are modified copies of
+Herdr's shipped layouts.
+
+The MIT License in LICENSE covers the original work in this repository. Herdr's own
+code and icons stay under Herdr's licence.

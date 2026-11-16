@@ -41,3 +41,7 @@ Later runs (after `git pull`) update the files and leave your current layout alo
 Edit live in `~/.config/herdr-app` (Herdr hot-reloads), then run `./capture.sh` to copy
 the changes back here and commit. Check a mod with
 `herdr-app check ~/.config/herdr-app/mods/<mod>`.
+
+## License
+
+MIT, see `LICENSE`. Herdr-derived mods are credited in `NOTICE`.
